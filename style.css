@@ -608,8 +608,9 @@ header h1, header h2, header p {
 @media (max-width: 768px) {
     header {
         height: auto;
-        min-height: 100vh;
-        padding: 40px 20px;
+        min-height: 36.2vh;
+      margin-right: 66px;
+
     }
 
     header h1 {
