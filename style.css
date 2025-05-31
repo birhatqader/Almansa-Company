@@ -1,4 +1,4 @@
-        :root {
+ :root {
             --primary-color: #000000;
             --secondary-color: #d48002;
             --dark-color: #5e5444;
@@ -631,10 +631,4 @@ header h1, header h2, header p {
     color: black;
     font-weight: bold;
 }
-
-
-
-
-
-
 
