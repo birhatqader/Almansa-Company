@@ -1,5 +1,4 @@
-
-        // Fruit data
+ // Fruit data
         const fruits = [
             { name: "Apple", price: "$1.99", image: "https://images.unsplash.com/photo-1568702846914-96b305d2aaeb?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" },
             { name: "Banana", price: "$0.99", image: "https://images.unsplash.com/photo-1528825871115-3581a5387919?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" },
@@ -11,6 +10,12 @@
             { name: "Plum", price: "$2.99", image: "plum.jpg" },
             { name: "cherry", price: "$3.19", image: "https://images.unsplash.com/photo-1559181567-c3190ca9959b?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" },
             { name: "Pear", price: "$2.79", image: "pear.jpg" },
+            { name: "Lemon", price: "$2.79", image: "limon.jpg" },
+            { name: "Onion", price: "$2.79", image: "onion.jpg" },
+            { name: "Garlic", price: "$2.79", image: "garlic.avif" },
+            { name: "Melon", price: "$2.79", image: "melon.avif" },
+            { name: "WaterMelon", price: "$2.79", image: "watermelon.jpeg" },
+            { name: "Plout", price: "$2.79", image: "plout.jpg" },
         ];
 
         // Generate fruit cards
