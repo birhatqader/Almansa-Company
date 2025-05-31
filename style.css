@@ -73,7 +73,6 @@ header {
             font-weight: bold;
             white-space: nowrap;
             overflow: hidden;
-            border-right: 2px solid white;
             animation: typing 3s steps(45, end), blink 0.4s step-end infinite;
             text-decoration: underline;
             text-decoration-color: #d48002;
